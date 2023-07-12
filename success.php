@@ -34,7 +34,7 @@
   <div class="login-form">
    <h1><b>Hacking<b></h1>
 <p align="center"><h2>You have successfully logged in!</h2><p align="center">
-    <br> <button onclick="window.location.href='logout.php';">  /* CHANGE WITH YOUR URL! */
+    <br> <button onclick="window.location.href='logout.php';">
 Logout
 </button>
 <br><br>
