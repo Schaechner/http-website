@@ -1,3 +1,10 @@
+<?php
+
+session_start();
+
+if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
+
+  ?>
 
 <!DOCTYPE html>
 <html>
@@ -50,3 +57,9 @@ Logout
   <script src='https://code.jquery.com/jquery-1.11.1.min.js'></script><script src="./script.js"></script>
 
 </body>
+<?php
+} else {
+  header("Location: index.html");
+  exit;
+}
+?>
