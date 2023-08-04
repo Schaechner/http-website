@@ -6,8 +6,6 @@ Please clone them and then run them on yours! <br>
 You also need to verify that your URLs are all correct. Go through each file and see if it's the correct URL!<br>
 # Nothing works?
 If nothing works, please write to me or leave a message under "Issues"!
-Inspired by this article below, I'll show you how to hack an `http` website!
-{% embed https://dev.to/junedang/what-is-https-and-how-does-it-work-3fko %}
 
 ---
 If you like this article, I would appreciate a comment & like!
@@ -24,7 +22,6 @@ If you like this article, I would appreciate a comment & like!
 Which unencrypted website should I use? Is that unsafe then? Should I look for one online?
 **NO!**
 I will soon publish my own http website on Github so you can try it out! You can of course also find them here!
-{% embed https://github.com/SchBenedikt/http-website %}
 
 ### Install Wireshark on your first device
 To be able to read the access data yourself, you need a program called "Wireshark".
